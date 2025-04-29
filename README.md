@@ -1,7 +1,9 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_fiap.png" alt="FIAP" border="0" width=40% height=40%></a>
+    <a href="https://www.fiap.com.br/">
+        <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%>
+    </a>
 </p>
 
 <br>
@@ -9,16 +11,17 @@
 # FIAP Fase 6 - Sistema de Detecção de Drones e Pássaros
 
 
-## 👨‍🎓 Integrante:
-- Matheus Conciani - RM 559473
-- Ana Kolodji
-- Fernando Segregio
+##  Integrantes: 
+- <a href="https://www.linkedin.com/in/ana-kolodji-94ba66324/">Ana Kolodiji - RM559629</a>
+- <a href="https://www.linkedin.com/in/fernando-segregio/">Fernando Segregio - RM559582</a>    
+- <a href="https://www.linkedin.com/in/matheusconciani/">Matheus Conciani - RM559473</a> 
 
-## 👩‍🏫 Professores:
-### Tutor(a)
-- Lucas Gomes Moreira
+
+##  Professores:
+### Tutor(a) 
+- <a href="https://www.linkedin.com/in/leonardoorabona/">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
-- André Godoi
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
 # Entregável 1:
 
