@@ -99,7 +99,7 @@ O modelo treinado se mostrou adequado para aplicações práticas em monitoramen
 
 ## 📺 Link para o vídeo de demonstração
 
-[Assista à demonstração no YouTube](COLE_SEU_LINK_AQUI)
+[Assista à demonstração no YouTube](https://youtu.be/qyC_PXR9gF0)
 
 ---
 
